@@ -5,7 +5,7 @@
 > [!NOTE]
 > 解説記事をQiitaに投稿しています。
 > 
-> [Streamlit × LangGraphでHuman-in-the-loopを実現する](https://qiita.com/so-engineer/items/7a7f09bb1375c2454dfc)
+> [Streamlit × LangGraphでHuman-in-the-loopを実現する](https://qiita.com/so-engineer/items/60c10b44cea3aebae0a1)
 
 ## 特徴
 
