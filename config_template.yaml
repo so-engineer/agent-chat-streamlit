@@ -1,0 +1,15 @@
+config:
+  openai:
+    model: "gpt-4.1-nano-2025-04-14"
+    # model: "gpt-4.1-2025-04-14"
+    api_key: "<Your OpenAI API key>"
+  langsmith:
+    enabled: true  
+    langchain_tracing_v2: "true"
+    langchain_endpoint: "https://api.smith.langchain.com"
+    langchain_api_key: "<Your LangSmith API key>"
+    langchain_project: "agentchat-streamlit"
+  tavily:
+    api_key: "<Your Tavily API key>"
+  tools:
+    search_web: true
